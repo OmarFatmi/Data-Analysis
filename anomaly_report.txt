@@ -1,0 +1,22 @@
+Rapport des scores d'anomalies des partis politiques
+==================================================
+
+Parti : APC
+Unité de vote avec l'anomalie la plus élevée : BANOWA PRI. SCH.
+Score d'anomalie : 6.333333333333333
+--------------------------------------------------
+
+Parti : LP
+Unité de vote avec l'anomalie la plus élevée : NJOMA PRI. SCH.
+Score d'anomalie : 4.6
+--------------------------------------------------
+
+Parti : PDP
+Unité de vote avec l'anomalie la plus élevée : METELE PRI. SCH. I
+Score d'anomalie : 11.0
+--------------------------------------------------
+
+Parti : NNPP
+Unité de vote avec l'anomalie la plus élevée : METELE PRI. SCH. II
+Score d'anomalie : 62.0
+--------------------------------------------------
